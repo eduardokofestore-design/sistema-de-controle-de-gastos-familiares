@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleGastos.API", "ControleGastos.API\ControleGastos.API.csproj", "{A9F49904-786C-48CE-B017-4E93F6070A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleGastos.API.Tests", "ControleGastos.API.Tests\ControleGastos.API.Tests.csproj", "{A414C9BF-3B2D-49EC-8709-F45D383850BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F49904-786C-48CE-B017-4E93F6070A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F49904-786C-48CE-B017-4E93F6070A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F49904-786C-48CE-B017-4E93F6070A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F49904-786C-48CE-B017-4E93F6070A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A414C9BF-3B2D-49EC-8709-F45D383850BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A414C9BF-3B2D-49EC-8709-F45D383850BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A414C9BF-3B2D-49EC-8709-F45D383850BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A414C9BF-3B2D-49EC-8709-F45D383850BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

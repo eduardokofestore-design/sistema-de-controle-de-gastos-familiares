@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Build output
+bin/
+obj/
+dist/
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
